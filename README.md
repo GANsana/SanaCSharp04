@@ -2,6 +2,6 @@
 
 Тема: Робота з двовимірними масивами
 
-Дедлайн: <b>19.01.2023 18:00</b>
+Дедлайн: <b>02.02.2023 18:00</b>
 
 Завдання: https://docs.google.com/document/d/10lNJr0jM5W-am98ZHmQRMNuhlJfkwkckk5ZiAyATvBw/edit#
